@@ -1,0 +1,9 @@
+{
+	"name": "df-brij-azureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e65afbd9-4a21-43a0-ace8-6af6e4c964b3",
+		"tenantId": "5ad6d24c-6b57-44a2-939e-de9b33db0707"
+	}
+}
